@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;//rajveer is shit
 class Telephone
 {
  int calls;
